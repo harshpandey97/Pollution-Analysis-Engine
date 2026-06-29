@@ -1,0 +1,31 @@
+City,Date,PM2.5,PM10,NO2,SO2,CO,AQI,Category
+Delhi,2024-01-01,287,350,98,45,12,287,Very Poor
+Delhi,2024-01-02,310,380,110,50,14,310,Very Poor
+Delhi,2024-01-03,265,320,89,40,11,265,Very Poor
+Delhi,2024-01-04,198,245,75,35,9,198,Poor
+Delhi,2024-01-05,223,278,82,38,10,223,Poor
+Mumbai,2024-01-01,156,198,65,28,7,156,Unhealthy
+Mumbai,2024-01-02,142,185,60,25,6,142,Unhealthy
+Mumbai,2024-01-03,168,210,70,30,8,168,Unhealthy
+Mumbai,2024-01-04,134,172,55,22,6,134,Unhealthy
+Mumbai,2024-01-05,145,188,62,26,7,145,Unhealthy
+Bangalore,2024-01-01,89,112,42,18,4,89,Moderate
+Bangalore,2024-01-02,95,120,45,20,5,95,Moderate
+Bangalore,2024-01-03,78,98,38,16,4,78,Satisfactory
+Bangalore,2024-01-04,102,128,48,22,5,102,Moderate
+Bangalore,2024-01-05,88,110,41,18,4,88,Moderate
+Hyderabad,2024-01-01,67,85,35,15,3,67,Satisfactory
+Hyderabad,2024-01-02,72,90,38,16,4,72,Satisfactory
+Hyderabad,2024-01-03,65,82,33,14,3,65,Satisfactory
+Hyderabad,2024-01-04,78,98,40,18,4,78,Satisfactory
+Hyderabad,2024-01-05,70,88,36,15,3,70,Satisfactory
+Chennai,2024-01-01,112,140,52,22,5,112,Moderate
+Chennai,2024-01-02,125,158,58,25,6,125,Unhealthy for Sensitive
+Chennai,2024-01-03,108,135,50,21,5,108,Moderate
+Chennai,2024-01-04,118,148,55,23,6,118,Moderate
+Chennai,2024-01-05,132,165,61,26,6,132,Unhealthy for Sensitive
+Kolkata,2024-01-01,198,245,78,35,9,198,Poor
+Kolkata,2024-01-02,212,262,83,38,10,212,Poor
+Kolkata,2024-01-03,185,228,72,32,8,185,Poor
+Kolkata,2024-01-04,225,278,88,40,11,225,Poor
+Kolkata,2024-01-05,208,257,81,36,9,208,Poor
